@@ -1,0 +1,6 @@
+/graphql/node_modules
+/graphql/package-lock.json
+/graphql/yarn.lock
+/front-end/node_modules
+/front-end/yarn.lock
+/front-end/package-lock.json
